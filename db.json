@@ -1,0 +1,114 @@
+{
+  "Books": [
+    {
+      "id": "1",
+      "book_id_ph32353": "1",
+      "name_ph32353": "Lập trình java",
+      "published_year_ph32353": "2023",
+      "number_page_ph32353": 30,
+      "category_ph32353": "CNTT",
+      "quantity_ph32353": 10,
+      "image_ph32353": "https://images.nxbxaydung.com.vn/Picture/2020/biasachnen-0616154230.png",
+      "price_ph32353": 20000
+    },
+    {
+      "id": "2",
+      "book_id_ph32353": "2",
+      "name_ph32353": "Lập trình C++",
+      "published_year_ph32353": "2023",
+      "number_page_ph32353": 30,
+      "category_ph32353": "CNTT",
+      "quantity_ph32353": 10,
+      "image_ph32353": "https://images.nxbxaydung.com.vn/Picture/2020/biasachnen-0616154230.png",
+      "price_ph32353": 20000
+    },
+    {
+      "id": "3",
+      "book_id_ph32353": "3",
+      "name_ph32353": "Lập trình Python",
+      "published_year_ph32353": "2023",
+      "number_page_ph32353": 30,
+      "category_ph32353": "CNTT",
+      "quantity_ph32353": 10,
+      "image_ph32353": "https://images.nxbxaydung.com.vn/Picture/2020/biasachnen-0616154230.png",
+      "price_ph32353": 20000
+    },
+    {
+      "id": "4",
+      "book_id_ph32353": "4",
+      "name_ph32353": "Nấu ăn không khó",
+      "published_year_ph32353": "2023",
+      "number_page_ph32353": 30,
+      "category_ph32353": "cook",
+      "quantity_ph32353": 10,
+      "image_ph32353": "https://images.nxbxaydung.com.vn/Picture/2020/biasachnen-0616154230.png",
+      "price_ph32353": 20000
+    }
+  ],
+  "Carts": [
+    {
+      "id": "6f62",
+      "quantity": 5,
+      "book": {
+        "id": "4",
+        "book_id_ph32353": "4",
+        "name_ph32353": "Nấu ăn không khó",
+        "published_year_ph32353": "2023",
+        "number_page_ph32353": 30,
+        "category_ph32353": "cook",
+        "quantity_ph32353": 10,
+        "image_ph32353": "https://images.nxbxaydung.com.vn/Picture/2020/biasachnen-0616154230.png",
+        "price_ph32353": 20000
+      },
+      "date": "14/4/2024"
+    },
+    {
+      "id": "a9ff",
+      "quantity": 2,
+      "book": {
+        "id": "3",
+        "book_id_ph32353": "3",
+        "name_ph32353": "Lập trình Python",
+        "published_year_ph32353": "2023",
+        "number_page_ph32353": 30,
+        "category_ph32353": "CNTT",
+        "quantity_ph32353": 10,
+        "image_ph32353": "https://images.nxbxaydung.com.vn/Picture/2020/biasachnen-0616154230.png",
+        "price_ph32353": 20000
+      },
+      "date": "14/4/2024"
+    },
+    {
+      "id": "35e8",
+      "quantity": 7,
+      "book": {
+        "id": "1",
+        "book_id_ph32353": "1",
+        "name_ph32353": "Lập trình java",
+        "published_year_ph32353": "2023",
+        "number_page_ph32353": 30,
+        "category_ph32353": "CNTT",
+        "quantity_ph32353": 10,
+        "image_ph32353": "https://images.nxbxaydung.com.vn/Picture/2020/biasachnen-0616154230.png",
+        "price_ph32353": 20000
+      },
+      "date": "14/4/2024"
+    },
+    {
+      "id": "77ca",
+      "quantity": 1,
+      "book": {
+        "id": "2",
+        "book_id_ph32353": "2",
+        "name_ph32353": "Lập trình C++",
+        "published_year_ph32353": "2023",
+        "number_page_ph32353": 30,
+        "category_ph32353": "CNTT",
+        "quantity_ph32353": 10,
+        "image_ph32353": "https://images.nxbxaydung.com.vn/Picture/2020/biasachnen-0616154230.png",
+        "price_ph32353": 20000
+      },
+      "date": "14/4/2024"
+    }
+  ]
+}
